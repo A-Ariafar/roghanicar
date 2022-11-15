@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 500;
+    src: url("../public/static/fonts/YekanBakhFaNum-SemiBold.woff2")
+        format("woff2");
+}
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 900;
+    src: url("../public/static/fonts/YekanBakhFaNum-Black.woff2")
+        format("woff2");
+}
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 800;
+    src: url("../public/static/fonts//YekanBakhFaNum-ExtraBold.woff2")
+        format("woff2");
+}
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 700;
+    src: url("../public/static/fonts/YekanBakhFaNum-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 400;
+    src: url("../public/static/fonts/YekanBakhFaNum-Regular.woff2")
+        format("woff2");
+}
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 300;
+    src: url("../public/static/fonts/YekanBakhFaNum-Light.woff2")
+        format("woff2");
+}
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 200;
+    src: url("../public/static/fonts/YekanBakhFaNum-Thin.woff2") format("woff2");
+}
+@font-face {
+    font-family: "YekanBakh";
+    font-weight: 100;
+    src: url("../public/static/fonts/YekanBakhFaNum-ExtraBlack.woff2")
+        format("woff2");
+}
